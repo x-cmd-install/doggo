@@ -1,0 +1,62 @@
+about:
+  description: :dog: Command-line DNS Client for Humans. Written in Golang
+  license: GPL-3.0
+  homepage: https://doggo.mrkaran.dev/
+  head: 7f6b105
+  archived: false
+  latestVersion: v1.4.0
+  collectedAt: 2026-09-03T04:35:00Z
+timeline:
+  created: 2020-12-09
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-01
+popularity:
+  star: 4458
+  watcher: 19
+  fork: 143
+  release: 46
+  contributor: 38
+  pullRequest: 76
+  issue: 105
+language:
+  Go: 424977
+  HTML: 31384
+  Shell: 13362
+  CSS: 13142
+  JavaScript: 13069
+  Makefile: 1140
+  Dockerfile: 379
+totalLine: 497453
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 3
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 16
+  last90d:
+    since: 2026-06-05
+    release: 4
+    mergedPR: 15
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 24
+  last180d:
+    since: 2026-03-07
+    release: 6
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 7
+    openIssue: 0
+    commit: 34
+  last360d:
+    since: 2025-09-08
+    release: 12
+    mergedPR: 22
+    openPR: 0
+    closedIssue: 13
+    openIssue: 0
+    commit: 68
