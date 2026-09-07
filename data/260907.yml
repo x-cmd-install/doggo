@@ -5,15 +5,15 @@ about:
   head: 7f6b105
   archived: false
   latestVersion: "v1.4.0"
-  collectedAt: 2026-09-07T04:48:28Z
+  collectedAt: 2026-09-07T19:34:38Z
 timeline:
   created: 2020-12-09
   lastCommit: 2026-09-01
   lastRelease: 2026-09-01
 popularity:
-  star: 4464
+  star: 4466
   watcher: 19
-  fork: 144
+  fork: 145
   release: 46
   contributor: 38
   pullRequest: 154
@@ -85,7 +85,7 @@ total:
   commit: 270
 ---
 path: /home/runner/.x-repo/github.com/mr-karan/doggo
-collectedAt: 2026-09-07T04:48:31Z
+collectedAt: 2026-09-07T19:34:39Z
 loc:
   Go:
     code: 11212
@@ -266,7 +266,7 @@ checks:
       - 'Warn: 0 commits out of 15 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:48:33+00:00
+  collectedAt: 2026-09-07T19:34:40+00:00
   platform:
     darwin/arm64:
       name:  doggo-darwin-aarch64.tar.gz
