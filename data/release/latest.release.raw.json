@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5560702,
       "digest": "sha256:9817c57a21644b51dc8b23a98a13c686f8a7f2de945b3adc61b8141991dd65a2",
-      "download_count": 131,
+      "download_count": 132,
       "created_at": "2026-09-01T09:36:46Z",
       "updated_at": "2026-09-01T09:36:47Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-darwin-aarch64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5285182,
       "digest": "sha256:bf5bd32f26fa8f652f3ac73f08af2ecc9e59955bc47e98a260d7dc6860710162",
-      "download_count": 129,
+      "download_count": 134,
       "created_at": "2026-09-01T09:36:46Z",
       "updated_at": "2026-09-01T09:36:46Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-linux-aarch64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5852262,
       "digest": "sha256:f85e2471737677a5fa65491b4241e0f46960aae6cc2211cc660ee6394a1a3d06",
-      "download_count": 1005,
+      "download_count": 1030,
       "created_at": "2026-09-01T09:36:44Z",
       "updated_at": "2026-09-01T09:36:45Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-linux-x86_64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 5814643,
       "digest": "sha256:acd23af014bb375fa6bfcc93b6fd0b8ccbbab0ee63c16e86330863cee00255cc",
-      "download_count": 79,
+      "download_count": 80,
       "created_at": "2026-09-01T09:36:47Z",
       "updated_at": "2026-09-01T09:36:47Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-windows-i386.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 5944415,
       "digest": "sha256:24ff6fe2be4baff39574ccc50c50c467a344804998d1773b9b76b838a26acd67",
-      "download_count": 524,
+      "download_count": 527,
       "created_at": "2026-09-01T09:36:44Z",
       "updated_at": "2026-09-01T09:36:45Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-windows-x86_64.zip"
