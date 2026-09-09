@@ -7,7 +7,7 @@
 - **Latest release**: `v1.4.0` (2026-09-01)
 - **Last commit**: 2026-09-01
 - **License**: GPL-3.0
-- **Stars**: 4467 · **Forks**: 145 · **Open issues**: 105 · **Contributors**: 38
+- **Stars**: 4468 · **Forks**: 144 · **Open issues**: 105 · **Contributors**: 38
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/doggo> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:18:24Z._
+_Last regenerated: 2026-09-09T04:55:17Z._
