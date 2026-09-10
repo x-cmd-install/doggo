@@ -12,6 +12,28 @@
 x install doggo
 ```
 
+## 代码规模
+
+合计: **13,118** 行代码（覆盖前 5 种语言、共 **62** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 11,212 | 896 | 1,400 | 50 |
+| Css | 642 | 20 | 121 | 3 |
+| Sh | 416 | 6 | 82 | 3 |
+| JavaScript | 379 | 20 | 69 | 4 |
+| Html | 366 | 14 | 33 | 2 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **4.1 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/mr-karan/doggo>
@@ -23,6 +45,25 @@ x install doggo
 - **最新版本**: `v1.4.0` (2026-09-01)
 - **最近提交**: 2026-09-01
 - **Release 含资产**: 27 个
+
+## 流行度
+
+- **Star**: 4,472 · **Fork**: 145 · **开放 issue**: 105 · **贡献者**: 38
+
+## 累计统计
+
+- **发布数**: 46 · **已合并 PR**: 78 · **开放 PR**: 0 · **已关闭 issue**: 105 · **开放 issue**: 0 · **提交数**: 270
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 6 | 0 | 3 | 0 | 11 |
+| last60d | 2026-07-12 | 3 | 12 | 0 | 3 | 0 | 18 |
+| 90d | 2026-06-12 | 4 | 14 | 0 | 4 | 0 | 22 |
+| last180d | 2026-03-14 | 6 | 16 | 0 | 7 | 0 | 34 |
+| 360d | 2025-09-15 | 12 | 22 | 0 | 13 | 0 | 68 |
+| last720d | 2024-09-20 | 13 | 25 | 0 | 33 | 0 | 86 |
 
 ## Release 资产
 
@@ -56,43 +97,18 @@ x install doggo
 | [doggo_1.4.0_checksums.txt](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo_1.4.0_checksums.txt) | 2.3 KiB | `other` |
 | [doggo_web_1.4.0_linux_amd64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo_web_1.4.0_linux_amd64.tar.gz) | 5.2 MiB | `native/linux/x64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 4,472 · **Fork**: 145 · **开放 issue**: 105 · **贡献者**: 38
+在 [repology.org](https://repology.org/project/doggo) 上共有 **48** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**32** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 46 · **已合并 PR**: 78 · **开放 PR**: 0 · **已关闭 issue**: 105 · **开放 issue**: 0 · **提交数**: 270
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 6 | 0 | 3 | 0 | 11 |
-| 90d | 2026-06-12 | 4 | 14 | 0 | 4 | 0 | 22 |
-| 360d | 2025-09-15 | 12 | 22 | 0 | 13 | 0 | 68 |
-
-## 代码规模
-
-合计: **13,118** 行代码（覆盖前 5 种语言、共 **62** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 11,212 | 896 | 1,400 | 50 |
-| Css | 642 | 20 | 121 | 3 |
-| Sh | 416 | 6 | 82 | 3 |
-| JavaScript | 379 | 20 | 69 | 4 |
-| Html | 366 | 14 | 33 | 2 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **4.1 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.4.0` | ✅ latest |
+| Homebrew | `1.4.0` | ✅ latest |
+| Nix unstable | `1.4.0` | ✅ latest |
+| Void | `1.1.4` | ⚠️ outdated |
+| Alpine edge | `1.1.5` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.3.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -103,4 +119,4 @@ doggo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:45:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:03:53Z._
