@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.0"
   latestRelease: "v1.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:51:30Z
+  collectedAt: 2026-09-11T20:19:55Z
 timeline:
   created: 2020-12-09
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-01
   lastPrerelease: 
 popularity:
-  star: 4472
+  star: 4473
   watcher: 19
   fork: 145
   release: 46
@@ -89,7 +89,7 @@ total:
   commit: 270
 ---
 path: /home/runner/.x-repo/github.com/mr-karan/doggo
-collectedAt: 2026-09-11T04:51:32Z
+collectedAt: 2026-09-11T20:19:56Z
 loc:
   Go:
     code: 11212
