@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 6 | 0 | 3 | 0 | 11 |
-| last60d | 2026-07-13 | 3 | 12 | 0 | 3 | 0 | 18 |
-| 90d | 2026-06-13 | 4 | 13 | 0 | 4 | 0 | 22 |
-| last180d | 2026-03-15 | 6 | 16 | 0 | 7 | 0 | 34 |
-| 360d | 2025-09-16 | 12 | 22 | 0 | 13 | 0 | 68 |
-| last720d | 2024-09-21 | 13 | 25 | 0 | 33 | 0 | 86 |
+| 30d | 2026-08-13 | 1 | 6 | 0 | 3 | 0 | 11 |
+| last60d | 2026-07-14 | 3 | 12 | 0 | 3 | 0 | 18 |
+| 90d | 2026-06-14 | 4 | 13 | 0 | 4 | 0 | 22 |
+| last180d | 2026-03-16 | 6 | 16 | 0 | 7 | 0 | 34 |
+| 360d | 2025-09-17 | 12 | 22 | 0 | 13 | 0 | 68 |
+| last720d | 2024-09-22 | 13 | 25 | 0 | 33 | 0 | 86 |
 
 ## Release assets
 
@@ -119,4 +119,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:20:02Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:43:48Z._
