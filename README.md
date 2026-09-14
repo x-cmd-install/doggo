@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 6 | 0 | 3 | 0 | 7 |
-| last60d | 2026-07-15 | 3 | 12 | 0 | 3 | 0 | 16 |
-| 90d | 2026-06-15 | 4 | 13 | 0 | 4 | 0 | 21 |
-| last180d | 2026-03-17 | 6 | 16 | 0 | 7 | 0 | 34 |
-| 360d | 2025-09-18 | 12 | 22 | 0 | 13 | 0 | 68 |
-| last720d | 2024-09-23 | 13 | 25 | 0 | 33 | 0 | 86 |
+| 30d | 2026-08-15 | 1 | 6 | 0 | 3 | 0 | 0 |
+| last60d | 2026-07-16 | 3 | 12 | 0 | 3 | 0 | 0 |
+| 90d | 2026-06-16 | 4 | 13 | 0 | 4 | 0 | 0 |
+| last180d | 2026-03-18 | 6 | 16 | 0 | 7 | 0 | 0 |
+| 360d | 2025-09-19 | 12 | 22 | 0 | 13 | 0 | 0 |
+| last720d | 2024-09-24 | 13 | 25 | 0 | 33 | 0 | 86 |
 
 ## Release assets
 
@@ -97,19 +97,6 @@ Lowest-scoring checks:
 | [doggo_1.4.0_checksums.txt](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo_1.4.0_checksums.txt) | 2.3 KiB | `other` |
 | [doggo_web_1.4.0_linux_amd64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo_web_1.4.0_linux_amd64.tar.gz) | 5.2 MiB | `native/linux/x64` |
 
-## Distribution status
-
-Reported by **48** distros on [repology.org](https://repology.org/project/doggo). **12** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.4.0` | ✅ latest |
-| Homebrew | `1.4.0` | ✅ latest |
-| Nix unstable | `1.4.0` | ✅ latest |
-| Void | `1.1.4` | ⚠️ outdated |
-| Alpine edge | `1.1.5` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.3.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `doggo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -119,4 +106,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:58:40Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:08:12Z._
