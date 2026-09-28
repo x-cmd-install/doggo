@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,489 · **Forks**: 145 · **Open issues**: 105 · **Contributors**: 38
+- **Stars**: 4,490 · **Forks**: 145 · **Open issues**: 105 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 4 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 3 | 11 | 0 | 3 | 0 | 16 |
-| 90d | 2026-06-29 | 3 | 12 | 0 | 4 | 0 | 18 |
-| last180d | 2026-03-31 | 6 | 15 | 0 | 7 | 0 | 33 |
-| 360d | 2025-10-02 | 12 | 22 | 0 | 13 | 0 | 68 |
-| last720d | 2024-10-07 | 12 | 25 | 0 | 33 | 0 | 77 |
+| 30d | 2026-08-29 | 1 | 4 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 3 | 11 | 0 | 3 | 0 | 16 |
+| 90d | 2026-06-30 | 3 | 12 | 0 | 4 | 0 | 18 |
+| last180d | 2026-04-01 | 6 | 15 | 0 | 7 | 0 | 33 |
+| 360d | 2025-10-03 | 12 | 22 | 0 | 13 | 0 | 68 |
+| last720d | 2024-10-08 | 12 | 25 | 0 | 33 | 0 | 77 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:28:24Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:33:51Z._
