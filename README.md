@@ -14,14 +14,14 @@ x install doggo
 
 ## Code insight
 
-Total: **13,118** lines of code across **62** files in the top 5 languages.
+Total: **13,335** lines of code across **62** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,212 | 896 | 1,400 | 50 |
+| Go | 11,430 | 896 | 1,408 | 50 |
 | Css | 642 | 20 | 121 | 3 |
 | Sh | 416 | 6 | 82 | 3 |
-| JavaScript | 379 | 20 | 69 | 4 |
+| JavaScript | 377 | 20 | 69 | 4 |
 | Html | 366 | 14 | 33 | 2 |
 
 ## OpenSSF Scorecard
@@ -42,60 +42,60 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.4.0` (2026-09-01)
-- **Last commit**: 2026-09-01
+- **Latest**: `v1.4.1` (2026-10-12)
+- **Last commit**: 2026-10-12
 - **Assets in release**: 27
 
 ## Popularity
 
-- **Stars**: 4,513 · **Forks**: 147 · **Open issues**: 105 · **Contributors**: 38
+- **Stars**: 4,515 · **Forks**: 147 · **Open issues**: 105 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 78 · **Open PRs**: 1 · **Closed issues**: 105 · **Open issues**: 0 · **Commits**: 270
+- **Releases**: 47 · **Merged PRs**: 80 · **Open PRs**: 0 · **Closed issues**: 105 · **Open issues**: 0 · **Commits**: 276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 1 | 6 | 1 | 3 | 0 | 8 |
-| 90d | 2026-07-13 | 3 | 12 | 1 | 3 | 0 | 18 |
-| last180d | 2026-04-14 | 6 | 15 | 1 | 7 | 0 | 33 |
-| 360d | 2025-10-16 | 12 | 22 | 1 | 13 | 0 | 68 |
-| last720d | 2024-10-21 | 12 | 25 | 1 | 32 | 0 | 77 |
+| 30d | 2026-09-12 | 1 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-13 | 2 | 8 | 0 | 3 | 0 | 12 |
+| 90d | 2026-07-14 | 4 | 14 | 0 | 3 | 0 | 22 |
+| last180d | 2026-04-15 | 7 | 17 | 0 | 7 | 0 | 37 |
+| 360d | 2025-10-17 | 13 | 24 | 0 | 13 | 0 | 72 |
+| last720d | 2024-10-22 | 13 | 27 | 0 | 32 | 0 | 83 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [doggo-darwin-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-darwin-aarch64.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
-| [doggo-darwin-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-darwin-x86_64.tar.gz) | 5.7 MiB | `native/darwin/x64` |
-| [doggo-freebsd-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-freebsd-aarch64.tar.gz) | 5.0 MiB | `native/linux/arm64` |
-| [doggo-freebsd-arm.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-freebsd-arm.tar.gz) | 5.3 MiB | `native/linux/arm` |
-| [doggo-freebsd-armv7.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-freebsd-armv7.tar.gz) | 5.3 MiB | `native/linux/arm` |
-| [doggo-freebsd-i386.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-freebsd-i386.tar.gz) | 5.3 MiB | `native/linux/x86` |
-| [doggo-freebsd-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-freebsd-x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [doggo-linux-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-linux-aarch64.tar.gz) | 5.0 MiB | `native/linux/arm64` |
-| [doggo-linux-arm.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-linux-arm.tar.gz) | 5.3 MiB | `native/linux/arm` |
-| [doggo-linux-armv6.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-linux-armv6.tar.gz) | 5.4 MiB | `native/linux/arm` |
-| [doggo-linux-armv7.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-linux-armv7.tar.gz) | 5.3 MiB | `native/linux/arm` |
-| [doggo-linux-i386.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-linux-i386.tar.gz) | 5.4 MiB | `native/linux/x86` |
-| [doggo-linux-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-linux-x86_64.tar.gz) | 5.6 MiB | `native/linux/x64` |
-| [doggo-netbsd-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-netbsd-aarch64.tar.gz) | 4.9 MiB | `native/linux/arm64` |
-| [doggo-netbsd-arm.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-netbsd-arm.tar.gz) | 5.2 MiB | `native/linux/arm` |
-| [doggo-netbsd-armv7.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-netbsd-armv7.tar.gz) | 5.2 MiB | `native/linux/arm` |
-| [doggo-netbsd-i386.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-netbsd-i386.tar.gz) | 5.3 MiB | `native/linux/x86` |
-| [doggo-netbsd-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-netbsd-x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [doggo-openbsd-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-openbsd-aarch64.tar.gz) | 4.9 MiB | `native/linux/arm64` |
-| [doggo-openbsd-arm.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-openbsd-arm.tar.gz) | 5.3 MiB | `native/linux/arm` |
-| [doggo-openbsd-armv7.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-openbsd-armv7.tar.gz) | 5.3 MiB | `native/linux/arm` |
-| [doggo-openbsd-i386.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-openbsd-i386.tar.gz) | 5.3 MiB | `native/linux/x86` |
-| [doggo-openbsd-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-openbsd-x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [doggo-windows-i386.zip](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-windows-i386.zip) | 5.5 MiB | `native/win/x64` |
-| [doggo-windows-x86_64.zip](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo-windows-x86_64.zip) | 5.7 MiB | `native/win/x64` |
-| [doggo_1.4.0_checksums.txt](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo_1.4.0_checksums.txt) | 2.3 KiB | `other` |
-| [doggo_web_1.4.0_linux_amd64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.0/doggo_web_1.4.0_linux_amd64.tar.gz) | 5.2 MiB | `native/linux/x64` |
+| [doggo-darwin-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-darwin-aarch64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
+| [doggo-darwin-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-darwin-x86_64.tar.gz) | 6.1 MiB | `native/darwin/x64` |
+| [doggo-freebsd-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-freebsd-aarch64.tar.gz) | 5.3 MiB | `native/linux/arm64` |
+| [doggo-freebsd-arm.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-freebsd-arm.tar.gz) | 5.6 MiB | `native/linux/arm` |
+| [doggo-freebsd-armv7.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-freebsd-armv7.tar.gz) | 5.6 MiB | `native/linux/arm` |
+| [doggo-freebsd-i386.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-freebsd-i386.tar.gz) | 5.7 MiB | `native/linux/x86` |
+| [doggo-freebsd-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-freebsd-x86_64.tar.gz) | 5.9 MiB | `native/linux/x64` |
+| [doggo-linux-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-aarch64.tar.gz) | 5.3 MiB | `native/linux/arm64` |
+| [doggo-linux-arm.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-arm.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [doggo-linux-armv6.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-armv6.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [doggo-linux-armv7.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-armv7.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [doggo-linux-i386.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-i386.tar.gz) | 5.7 MiB | `native/linux/x86` |
+| [doggo-linux-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-x86_64.tar.gz) | 5.9 MiB | `native/linux/x64` |
+| [doggo-netbsd-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-netbsd-aarch64.tar.gz) | 5.2 MiB | `native/linux/arm64` |
+| [doggo-netbsd-arm.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-netbsd-arm.tar.gz) | 5.6 MiB | `native/linux/arm` |
+| [doggo-netbsd-armv7.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-netbsd-armv7.tar.gz) | 5.6 MiB | `native/linux/arm` |
+| [doggo-netbsd-i386.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-netbsd-i386.tar.gz) | 5.6 MiB | `native/linux/x86` |
+| [doggo-netbsd-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-netbsd-x86_64.tar.gz) | 5.8 MiB | `native/linux/x64` |
+| [doggo-openbsd-aarch64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-openbsd-aarch64.tar.gz) | 5.2 MiB | `native/linux/arm64` |
+| [doggo-openbsd-arm.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-openbsd-arm.tar.gz) | 5.6 MiB | `native/linux/arm` |
+| [doggo-openbsd-armv7.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-openbsd-armv7.tar.gz) | 5.6 MiB | `native/linux/arm` |
+| [doggo-openbsd-i386.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-openbsd-i386.tar.gz) | 5.6 MiB | `native/linux/x86` |
+| [doggo-openbsd-x86_64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-openbsd-x86_64.tar.gz) | 5.8 MiB | `native/linux/x64` |
+| [doggo-windows-i386.zip](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-windows-i386.zip) | 5.9 MiB | `native/win/x64` |
+| [doggo-windows-x86_64.zip](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-windows-x86_64.zip) | 6.0 MiB | `native/win/x64` |
+| [doggo_1.4.1_checksums.txt](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo_1.4.1_checksums.txt) | 2.3 KiB | `other` |
+| [doggo_web_1.4.1_linux_amd64.tar.gz](https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo_web_1.4.1_linux_amd64.tar.gz) | 5.7 MiB | `native/linux/x64` |
 
 ## Improve this data
 
@@ -106,4 +106,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:58:25Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:06:49Z._
