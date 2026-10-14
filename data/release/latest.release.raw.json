@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5859884,
       "digest": "sha256:4052103fca53fa63623bbee3c6075ad3fb80c10e8413d6d10bbe66851ceee416",
-      "download_count": 37,
+      "download_count": 73,
       "created_at": "2026-10-12T05:36:39Z",
       "updated_at": "2026-10-12T05:36:39Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-darwin-aarch64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6373613,
       "digest": "sha256:2bc89d17d022d597e2b0e4a1a238a7bc29505a059f3e04aeed4e45a148b746ea",
-      "download_count": 13,
+      "download_count": 20,
       "created_at": "2026-10-12T05:36:36Z",
       "updated_at": "2026-10-12T05:36:37Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-darwin-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5531584,
       "digest": "sha256:89a48b45245a044416a26c7cf9f5046df6e46ba4f58e523961451f80ae120520",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-10-12T05:36:39Z",
       "updated_at": "2026-10-12T05:36:40Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-freebsd-aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5961240,
       "digest": "sha256:7f5e66db349659164f59e563951ef1c2691e9fabc47b3f91b12c49ac6c97dbec",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-12T05:36:35Z",
       "updated_at": "2026-10-12T05:36:36Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-freebsd-i386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6156402,
       "digest": "sha256:47e056be89ac1e972fd474bb64ccdaa4a35bf51fc55a9099dcea6ed7b048df21",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-12T05:36:39Z",
       "updated_at": "2026-10-12T05:36:39Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-freebsd-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5568088,
       "digest": "sha256:69b9ce66545744459c0287bf3df6ce8a64e114b94d2dd617ea6119314c73b992",
-      "download_count": 46,
+      "download_count": 72,
       "created_at": "2026-10-12T05:36:37Z",
       "updated_at": "2026-10-12T05:36:38Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-aarch64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5938379,
       "digest": "sha256:9ef186afc91cd046c8fa24e659dd2423058b8b537cdc884d9e19306e2abee86c",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-12T05:36:41Z",
       "updated_at": "2026-10-12T05:36:42Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-arm.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6001702,
       "digest": "sha256:780ffcf6c9d7391eff7277dcfc27ce0e8a5397b10a00712b7c5a9226aca65dfd",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-12T05:36:38Z",
       "updated_at": "2026-10-12T05:36:39Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-i386.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6192093,
       "digest": "sha256:d4785ab19287c5973cbd0c3390945c3edce3105b7c9aaa5a08bc19c7d7f2dcbc",
-      "download_count": 203,
+      "download_count": 391,
       "created_at": "2026-10-12T05:36:35Z",
       "updated_at": "2026-10-12T05:36:36Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-linux-x86_64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 6084836,
       "digest": "sha256:4a7f656adf3fec33c85391901037be92f1e96b2b699f9e7d152cb771b4ddbf1c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-12T05:36:38Z",
       "updated_at": "2026-10-12T05:36:39Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-openbsd-x86_64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 6202866,
       "digest": "sha256:f008222d02a67720882bbc60f7dae1555b4acfccbf30b0e65a891b86f05705af",
-      "download_count": 10,
+      "download_count": 26,
       "created_at": "2026-10-12T05:36:35Z",
       "updated_at": "2026-10-12T05:36:36Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-windows-i386.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 6297339,
       "digest": "sha256:93472211f07ef69e1a57349f29d9ebc988ded191b1f1df191a2d23e081d8c2ac",
-      "download_count": 181,
+      "download_count": 303,
       "created_at": "2026-10-12T05:36:38Z",
       "updated_at": "2026-10-12T05:36:38Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo-windows-x86_64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 2404,
       "digest": "sha256:7bbcc8e4481e43578bee6e189e10818adc6c3382a38c23c0f6a02a67025acf1d",
-      "download_count": 79,
+      "download_count": 134,
       "created_at": "2026-10-12T05:36:41Z",
       "updated_at": "2026-10-12T05:36:42Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo_1.4.1_checksums.txt"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 5960166,
       "digest": "sha256:a4a0416fb0d27089fa1162c0bc2e4095e73cb90a49dbbaeb336c9fb181841ffa",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-12T05:36:41Z",
       "updated_at": "2026-10-12T05:36:42Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.1/doggo_web_1.4.1_linux_amd64.tar.gz"
@@ -1014,14 +1014,14 @@
   "body": "## Changelog\n### Bug fixes\n* 6d0b17da1a4125a8869cbf5d0ba678d65d4cd091: fix(resolvers): cancel family-bound UDP hostname lookups (@mr-karan)\n### Others\n* 7f6b105f240e562a5c7659976b1c16b683c25385: Merge pull request #259 from mr-karan/feat/dns-delegation-trace (@mr-karan)\n* fcb09f698d68a6a0d915e2730d5a032e629805ec: Merge pull request #260 from terminaldweller/main (@mr-karan)\n* b2331144a39fbc02192544c6f3bd6d3f52084b0b: Merge pull request #261 from mr-karan/fix/quic-dns-cancellation (@mr-karan)\n* 5bfc01a388a78acfc574a639009db6d35d3fba45: chore: update dependencies and prepare v1.4.1 (@mr-karan)\n* d1d80e41604c6ed423ddf65e8a181528ab484acd: docs(trace): document validation and source binding (@mr-karan)\n* 3049fbbd6662008228cf0f461c1188175d19d8e3: have DoQ and DoH respect -6 (@terminaldweller)\n* 34910c85106f46ff326fd8f060b7e74fd45a23fb: test(cli): keep failure-test UDP ports reserved (@mr-karan)\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/mr-karan/doggo/releases/410212451/reactions",
-    "total_count": 3,
+    "total_count": 4,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
     "heart": 1,
-    "rocket": 0,
+    "rocket": 1,
     "eyes": 0
   },
   "mentions_count": 2
