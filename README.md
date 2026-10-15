@@ -30,7 +30,7 @@ Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,517 · **Forks**: 147 · **Open issues**: 105 · **Contributors**: 39
+- **Stars**: 4,518 · **Forks**: 147 · **Open issues**: 105 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 2 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-15 | 2 | 8 | 0 | 3 | 0 | 12 |
-| 90d | 2026-07-16 | 4 | 14 | 0 | 3 | 0 | 22 |
-| last180d | 2026-04-17 | 7 | 17 | 0 | 7 | 0 | 37 |
-| 360d | 2025-10-19 | 13 | 24 | 0 | 13 | 0 | 72 |
-| last720d | 2024-10-24 | 13 | 27 | 0 | 32 | 0 | 83 |
+| 30d | 2026-09-15 | 1 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-16 | 2 | 8 | 0 | 3 | 0 | 12 |
+| 90d | 2026-07-17 | 4 | 14 | 0 | 3 | 0 | 22 |
+| last180d | 2026-04-18 | 7 | 17 | 0 | 7 | 0 | 37 |
+| 360d | 2025-10-20 | 13 | 24 | 0 | 13 | 0 | 72 |
+| last720d | 2024-10-25 | 13 | 27 | 0 | 32 | 0 | 83 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:03:51Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:47:15Z._
