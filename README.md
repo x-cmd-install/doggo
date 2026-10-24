@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,520 · **Forks**: 148 · **Open issues**: 105 · **Contributors**: 39
+- **Stars**: 4,522 · **Forks**: 148 · **Open issues**: 105 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 2 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-24 | 3 | 6 | 0 | 1 | 0 | 15 |
-| 90d | 2026-07-25 | 5 | 13 | 0 | 3 | 0 | 24 |
-| last180d | 2026-04-26 | 8 | 17 | 0 | 7 | 0 | 41 |
-| 360d | 2025-10-28 | 14 | 24 | 0 | 12 | 0 | 65 |
-| last720d | 2024-11-02 | 14 | 27 | 0 | 32 | 0 | 87 |
+| 30d | 2026-09-24 | 2 | 2 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-25 | 3 | 6 | 0 | 1 | 0 | 15 |
+| 90d | 2026-07-26 | 5 | 13 | 0 | 3 | 0 | 24 |
+| last180d | 2026-04-27 | 8 | 17 | 0 | 7 | 0 | 41 |
+| 360d | 2025-10-29 | 14 | 24 | 0 | 12 | 0 | 65 |
+| last720d | 2024-11-03 | 14 | 27 | 0 | 32 | 0 | 87 |
 
 ## Release assets
 
@@ -99,7 +99,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/doggo). **6** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **50** distros on [repology.org](https://repology.org/project/doggo). **7** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -119,4 +119,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:57:02Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:40:00Z._
