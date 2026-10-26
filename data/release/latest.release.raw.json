@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5875338,
       "digest": "sha256:31c1c765a61fad93f8b616bcafca69f4a9c701ad7911850865760c82bffa6532",
-      "download_count": 84,
+      "download_count": 95,
       "created_at": "2026-10-22T06:25:37Z",
       "updated_at": "2026-10-22T06:25:38Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-darwin-aarch64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6386469,
       "digest": "sha256:0e83bfb39d1a8ace355b6f2e49544d19bfd17f738be5f0fe929889df3604ecec",
-      "download_count": 25,
+      "download_count": 31,
       "created_at": "2026-10-22T06:25:36Z",
       "updated_at": "2026-10-22T06:25:36Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-darwin-x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6165745,
       "digest": "sha256:d8ee302dc9e4a76f852634e150f27fe7ac46478a480b6a12c901efc1397c9598",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-22T06:25:38Z",
       "updated_at": "2026-10-22T06:25:38Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-freebsd-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5583808,
       "digest": "sha256:87f876e7c7f78282b4ceb5cfef119a82f9bfa54ef7e6ab916e5a6edb5f1cb878",
-      "download_count": 131,
+      "download_count": 150,
       "created_at": "2026-10-22T06:25:37Z",
       "updated_at": "2026-10-22T06:25:37Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-linux-aarch64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5952424,
       "digest": "sha256:b2f7d55af2bcf0c11d3bcbdfa4c55e0017cc42ddaf2ad54cc5ec5c86942772af",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-10-22T06:25:38Z",
       "updated_at": "2026-10-22T06:25:38Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-linux-arm.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5963910,
       "digest": "sha256:2347cbc87c0211333ba3bd9eaa6caa1361121e98e6e7c70ba36290d02350a0a6",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-10-22T06:25:37Z",
       "updated_at": "2026-10-22T06:25:37Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-linux-armv6.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5952424,
       "digest": "sha256:b2f7d55af2bcf0c11d3bcbdfa4c55e0017cc42ddaf2ad54cc5ec5c86942772af",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-10-22T06:25:33Z",
       "updated_at": "2026-10-22T06:25:34Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-linux-armv7.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6014219,
       "digest": "sha256:e269c9a6b14a7b8b4fd522c43fbdaf823354cae50dda159a8979c6f49bc74159",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-10-22T06:25:34Z",
       "updated_at": "2026-10-22T06:25:35Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-linux-i386.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6203739,
       "digest": "sha256:634d88c92e1e98a8e5f6bc9758ca39a797f4237e4c542156e48c441be702742c",
-      "download_count": 562,
+      "download_count": 724,
       "created_at": "2026-10-22T06:25:35Z",
       "updated_at": "2026-10-22T06:25:36Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-linux-x86_64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 6213894,
       "digest": "sha256:68fcd8b8d0bd6ce88f60660446ec71ebdbfe9a3e2890e3454511a5dc02c1f49b",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-10-22T06:25:33Z",
       "updated_at": "2026-10-22T06:25:34Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-windows-i386.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 6307326,
       "digest": "sha256:d3dcf3e3ff233acca443027f4cf072be6b331f0301f0ac3674d4de8802438791",
-      "download_count": 388,
+      "download_count": 456,
       "created_at": "2026-10-22T06:25:37Z",
       "updated_at": "2026-10-22T06:25:37Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-windows-x86_64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 2404,
       "digest": "sha256:efb168332c9e6607a4812909cbfab1ec2b56e39fb965acadb8b9607d8d1c7471",
-      "download_count": 259,
+      "download_count": 337,
       "created_at": "2026-10-22T06:25:39Z",
       "updated_at": "2026-10-22T06:25:39Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo_1.4.2_checksums.txt"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 5968982,
       "digest": "sha256:9bbaec4682bb0171b6ba07af9789899f578d5cfe1a83b952c4221f4b209cfc1b",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-10-22T06:25:39Z",
       "updated_at": "2026-10-22T06:25:39Z",
       "browser_download_url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo_web_1.4.2_linux_amd64.tar.gz"
