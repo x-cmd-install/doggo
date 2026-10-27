@@ -14,11 +14,11 @@ x install doggo
 
 ## 代码洞察
 
-合计: **13,588** 行代码（覆盖前 5 种语言、共 **64** 个文件）。
+合计: **13,735** 行代码（覆盖前 5 种语言、共 **65** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 11,683 | 895 | 1,418 | 52 |
+| Go | 11,830 | 911 | 1,433 | 53 |
 | Css | 642 | 20 | 121 | 3 |
 | Sh | 416 | 6 | 82 | 3 |
 | JavaScript | 377 | 20 | 69 | 4 |
@@ -26,11 +26,11 @@ x install doggo
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.1 / 10**
+总评分: **3.9 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 2/20 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ x install doggo
 ## 发布
 
 - **最新版本**: `v1.4.2` (2026-10-22)
-- **最近提交**: 2026-10-22
+- **最近提交**: 2026-10-26
 - **Release 含资产**: 27 个
 
 ## 流行度
 
-- **Star**: 4,524 · **Fork**: 148 · **开放 issue**: 106 · **贡献者**: 39
+- **Star**: 4,525 · **Fork**: 148 · **开放 issue**: 106 · **贡献者**: 39
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 80 · **开放 PR**: 0 · **已关闭 issue**: 105 · **开放 issue**: 1 · **提交数**: 280
+- **发布数**: 48 · **已合并 PR**: 81 · **开放 PR**: 0 · **已关闭 issue**: 106 · **开放 issue**: 0 · **提交数**: 284
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 2 | 0 | 0 | 1 | 8 |
-| last60d | 2026-08-27 | 3 | 6 | 0 | 0 | 1 | 8 |
-| 90d | 2026-07-28 | 5 | 13 | 0 | 3 | 1 | 24 |
-| last180d | 2026-04-29 | 8 | 17 | 0 | 7 | 1 | 41 |
-| 360d | 2025-10-31 | 12 | 24 | 0 | 10 | 1 | 53 |
-| last720d | 2024-11-05 | 14 | 27 | 0 | 32 | 1 | 87 |
+| 30d | 2026-09-27 | 2 | 3 | 0 | 1 | 0 | 11 |
+| last60d | 2026-08-28 | 3 | 7 | 0 | 1 | 0 | 11 |
+| 90d | 2026-07-29 | 5 | 14 | 0 | 4 | 0 | 27 |
+| last180d | 2026-04-30 | 8 | 18 | 0 | 8 | 0 | 44 |
+| 360d | 2025-11-01 | 12 | 23 | 0 | 11 | 0 | 56 |
+| last720d | 2024-11-06 | 14 | 28 | 0 | 33 | 0 | 91 |
 
 ## Release 资产
 
@@ -119,4 +119,4 @@ doggo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:51:23Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:12:12Z._

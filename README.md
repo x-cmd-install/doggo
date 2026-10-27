@@ -14,11 +14,11 @@ x install doggo
 
 ## Code insight
 
-Total: **13,588** lines of code across **64** files in the top 5 languages.
+Total: **13,735** lines of code across **65** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,683 | 895 | 1,418 | 52 |
+| Go | 11,830 | 911 | 1,433 | 53 |
 | Css | 642 | 20 | 121 | 3 |
 | Sh | 416 | 6 | 82 | 3 |
 | JavaScript | 377 | 20 | 69 | 4 |
@@ -26,11 +26,11 @@ Total: **13,588** lines of code across **64** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 2/20 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.4.2` (2026-10-22)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-26
 - **Assets in release**: 27
 
 ## Popularity
 
-- **Stars**: 4,524 · **Forks**: 148 · **Open issues**: 106 · **Contributors**: 39
+- **Stars**: 4,525 · **Forks**: 148 · **Open issues**: 106 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 80 · **Open PRs**: 0 · **Closed issues**: 105 · **Open issues**: 1 · **Commits**: 280
+- **Releases**: 48 · **Merged PRs**: 81 · **Open PRs**: 0 · **Closed issues**: 106 · **Open issues**: 0 · **Commits**: 284
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 2 | 0 | 0 | 1 | 8 |
-| last60d | 2026-08-27 | 3 | 6 | 0 | 0 | 1 | 8 |
-| 90d | 2026-07-28 | 5 | 13 | 0 | 3 | 1 | 24 |
-| last180d | 2026-04-29 | 8 | 17 | 0 | 7 | 1 | 41 |
-| 360d | 2025-10-31 | 12 | 24 | 0 | 10 | 1 | 53 |
-| last720d | 2024-11-05 | 14 | 27 | 0 | 32 | 1 | 87 |
+| 30d | 2026-09-27 | 2 | 3 | 0 | 1 | 0 | 11 |
+| last60d | 2026-08-28 | 3 | 7 | 0 | 1 | 0 | 11 |
+| 90d | 2026-07-29 | 5 | 14 | 0 | 4 | 0 | 27 |
+| last180d | 2026-04-30 | 8 | 18 | 0 | 8 | 0 | 44 |
+| 360d | 2025-11-01 | 12 | 23 | 0 | 11 | 0 | 56 |
+| last720d | 2024-11-06 | 14 | 28 | 0 | 33 | 0 | 91 |
 
 ## Release assets
 
@@ -119,4 +119,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:51:22Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:12:10Z._
