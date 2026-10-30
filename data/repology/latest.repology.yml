@@ -186,7 +186,7 @@
   binname: doggo
   visiblename: doggo
   version: 1.1.5
-  origversion: 1.1.5-r4
+  origversion: 1.1.5-r5
   status: outdated
   summary: Modern command-line DNS client, with DoH, DoT and DNSCrypt support
   maintainers:
@@ -199,7 +199,7 @@
   binname: doggo-bash-completion
   visiblename: doggo-bash-completion
   version: 1.1.5
-  origversion: 1.1.5-r4
+  origversion: 1.1.5-r5
   status: outdated
   summary: Bash completions for doggo
   maintainers:
@@ -212,7 +212,7 @@
   binname: doggo-fish-completion
   visiblename: doggo-fish-completion
   version: 1.1.5
-  origversion: 1.1.5-r4
+  origversion: 1.1.5-r5
   status: outdated
   summary: Fish completions for doggo
   maintainers:
@@ -225,7 +225,7 @@
   binname: doggo-zsh-completion
   visiblename: doggo-zsh-completion
   version: 1.1.5
-  origversion: 1.1.5-r4
+  origversion: 1.1.5-r5
   status: outdated
   summary: Zsh completions for doggo
   maintainers:
