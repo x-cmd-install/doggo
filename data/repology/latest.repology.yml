@@ -1,3 +1,21 @@
+- repo: homebrew
+  srcname: doggo
+  visiblename: doggo
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line DNS Client for Humans
+- repo: parabola
+  subrepo: extra
+  srcname: doggo
+  binname: doggo
+  visiblename: doggo
+  version: 1.4.2
+  origversion: 1.4.2-1
+  status: newest
+  summary: Command-line DNS Client for Humans
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_3_20
   subrepo: community
   srcname: doggo
@@ -365,13 +383,6 @@
   origversion: null
   status: newest
   summary: Command-line DNS Client for Humans
-- repo: homebrew
-  srcname: doggo
-  visiblename: doggo
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line DNS Client for Humans
 - repo: liguros_stable
   srcname: net-dns/doggo
   visiblename: net-dns/doggo
@@ -442,28 +453,6 @@
     - GPL-3
   categories:
     - net
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: doggo
-  binname: doggo
-  visiblename: doggo
-  version: 1.4.0
-  origversion: 1.4.0-1
-  status: outdated
-  summary: Command-line DNS Client for Humans
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: doggo
-  binname: doggo
-  visiblename: doggo
-  version: 1.4.0
-  origversion: 1.4.0-1
-  status: outdated
-  summary: Command-line DNS Client for Humans
-  licenses:
-    - GPL-3.0-only
 - repo: manjaro_unstable
   subrepo: extra
   srcname: doggo
@@ -558,25 +547,14 @@
     - doggo-fish-completion
     - doggo-zsh-completion
   visiblename: doggo
-  version: 1.4.1
-  origversion: 1.4.1-1.1
-  status: outdated
+  version: 1.4.2
+  origversion: 1.4.2-1.1
+  status: newest
   summary: CLI tool and API server DNS client implemented in Go
   licenses:
     - GPL-3.0-only
   categories:
     - Productivity/Networking/DNS/Utilities
-- repo: parabola
-  subrepo: extra
-  srcname: doggo
-  binname: doggo
-  visiblename: doggo
-  version: 1.4.2
-  origversion: 1.4.2-1
-  status: newest
-  summary: Command-line DNS Client for Humans
-  licenses:
-    - GPL-3.0-only
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: doggo
