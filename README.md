@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,533 · **Forks**: 149 · **Open issues**: 106 · **Contributors**: 40
+- **Stars**: 4,536 · **Forks**: 149 · **Open issues**: 106 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 4 | 0 | 1 | 0 | 12 |
-| last60d | 2026-09-03 | 2 | 4 | 0 | 1 | 0 | 12 |
-| 90d | 2026-08-04 | 5 | 15 | 0 | 4 | 0 | 23 |
-| last180d | 2026-05-06 | 8 | 19 | 0 | 8 | 0 | 45 |
-| 360d | 2025-11-07 | 11 | 24 | 0 | 11 | 0 | 57 |
-| last720d | 2024-11-12 | 14 | 29 | 0 | 33 | 0 | 93 |
+| 30d | 2026-10-04 | 2 | 4 | 0 | 1 | 0 | 12 |
+| last60d | 2026-09-04 | 2 | 4 | 0 | 1 | 0 | 12 |
+| 90d | 2026-08-05 | 5 | 14 | 0 | 4 | 0 | 23 |
+| last180d | 2026-05-07 | 8 | 19 | 0 | 8 | 0 | 45 |
+| 360d | 2025-11-08 | 11 | 24 | 0 | 11 | 0 | 57 |
+| last720d | 2024-11-13 | 14 | 29 | 0 | 33 | 0 | 93 |
 
 ## Release assets
 
@@ -99,16 +99,16 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/doggo). **8** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+Reported by **48** distros on [repology.org](https://repology.org/project/doggo). **9** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.4.2` | ✅ latest |
-| Homebrew | `1.4.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.4.0` | ⚠️ outdated |
 | Void | `1.4.1` | ⚠️ outdated |
 | Alpine edge | `1.1.5` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.4.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.4.2` | ✅ latest |
 
 ## Improve this data
 
@@ -119,4 +119,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:08:56Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:56:47Z._
