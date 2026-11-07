@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,542 · **Forks**: 150 · **Open issues**: 106 · **Contributors**: 40
+- **Stars**: 4,546 · **Forks**: 150 · **Open issues**: 106 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 4 | 0 | 1 | 0 | 12 |
-| last60d | 2026-09-07 | 2 | 4 | 0 | 1 | 0 | 12 |
-| 90d | 2026-08-08 | 3 | 10 | 0 | 4 | 0 | 23 |
-| last180d | 2026-05-10 | 8 | 19 | 0 | 8 | 0 | 45 |
-| 360d | 2025-11-11 | 11 | 24 | 0 | 11 | 0 | 57 |
-| last720d | 2024-11-16 | 14 | 29 | 0 | 33 | 0 | 93 |
+| 30d | 2026-10-08 | 2 | 4 | 0 | 1 | 0 | 12 |
+| last60d | 2026-09-08 | 2 | 4 | 0 | 1 | 0 | 12 |
+| 90d | 2026-08-09 | 3 | 10 | 0 | 4 | 0 | 23 |
+| last180d | 2026-05-11 | 8 | 19 | 0 | 8 | 0 | 45 |
+| 360d | 2025-11-12 | 11 | 24 | 0 | 11 | 0 | 57 |
+| last720d | 2024-11-17 | 14 | 29 | 0 | 33 | 0 | 93 |
 
 ## Release assets
 
@@ -99,12 +99,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **48** distros on [repology.org](https://repology.org/project/doggo). **9** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
+Reported by **50** distros on [repology.org](https://repology.org/project/doggo). **10** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.4.2` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.4.2` | ✅ latest |
 | Nix unstable | `1.4.0` | ⚠️ outdated |
 | Void | `1.4.1` | ⚠️ outdated |
 | Alpine edge | `1.1.5` | ⚠️ outdated |
@@ -119,4 +119,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:48:31Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:06:30Z._
