@@ -24,16 +24,6 @@ Total: **13,735** lines of code across **65** files in the top 5 languages.
 | JavaScript | 377 | 20 | 69 | 4 |
 | Html | 366 | 14 | 33 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.9 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 3/19 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/mr-karan/doggo>
@@ -48,7 +38,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,547 · **Forks**: 150 · **Open issues**: 106 · **Contributors**: 40
+- **Stars**: 4,549 · **Forks**: 150 · **Open issues**: 106 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -58,12 +48,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 3 | 0 | 1 | 0 | 8 |
-| last60d | 2026-09-10 | 2 | 4 | 0 | 1 | 0 | 12 |
-| 90d | 2026-08-11 | 3 | 10 | 0 | 4 | 0 | 23 |
-| last180d | 2026-05-13 | 8 | 19 | 0 | 8 | 0 | 45 |
-| 360d | 2025-11-14 | 11 | 24 | 0 | 11 | 0 | 57 |
-| last720d | 2024-11-19 | 14 | 29 | 0 | 33 | 0 | 93 |
+| 30d | 2026-10-11 | 2 | 2 | 0 | 1 | 0 | 8 |
+| last60d | 2026-09-11 | 2 | 4 | 0 | 1 | 0 | 12 |
+| 90d | 2026-08-12 | 3 | 10 | 0 | 4 | 0 | 23 |
+| last180d | 2026-05-14 | 8 | 19 | 0 | 8 | 0 | 45 |
+| 360d | 2025-11-15 | 11 | 24 | 0 | 11 | 0 | 57 |
+| last720d | 2024-11-20 | 14 | 29 | 0 | 33 | 0 | 93 |
 
 ## Release assets
 
@@ -119,4 +109,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:28:48Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:32:49Z._
