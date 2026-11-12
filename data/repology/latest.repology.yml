@@ -1,3 +1,27 @@
+- repo: nix_stable_25_05
+  srcname: doggo
+  visiblename: doggo
+  version: 1.0.5
+  origversion: null
+  status: outdated
+  summary: Command-line DNS Client for Humans. Written in Golang
+  maintainers:
+    - incense.stitch_0w@icloud.com
+    - maximilian@mbosch.me
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: doggo
+  visiblename: doggo
+  version: 1.1.3
+  origversion: null
+  status: outdated
+  summary: Command-line DNS Client for Humans. Written in Golang
+  maintainers:
+    - incense.stitch_0w@icloud.com
+    - maximilian@mbosch.me
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_3_20
   subrepo: community
   srcname: doggo
@@ -89,19 +113,6 @@
     - cielesti@protonmail.com
   licenses:
     - GPL-3.0-only
-- repo: alpine_edge
-  subrepo: community
-  srcname: doggo
-  binname: doggo-zsh-completion
-  visiblename: doggo-zsh-completion
-  version: 1.1.5
-  origversion: 1.1.5-r5
-  status: outdated
-  summary: Zsh completions for doggo
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - GPL-3.0-only
 - repo: alpine_3_23
   subrepo: community
   srcname: doggo
@@ -228,6 +239,19 @@
   origversion: 1.1.5-r5
   status: outdated
   summary: Fish completions for doggo
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - GPL-3.0-only
+- repo: alpine_edge
+  subrepo: community
+  srcname: doggo
+  binname: doggo-zsh-completion
+  visiblename: doggo-zsh-completion
+  version: 1.1.5
+  origversion: 1.1.5-r5
+  status: outdated
+  summary: Zsh completions for doggo
   maintainers:
     - wanghao03@loongson.cn
   licenses:
@@ -309,7 +333,7 @@
   binname: doggo
   visiblename: dns/doggo
   version: 1.4.2
-  origversion: 1.4.2,1
+  origversion: 1.4.2_1,1
   status: newest
   summary: Modern command-line DNS client (like dig)
   maintainers:
@@ -464,17 +488,6 @@
   summary: Command-line DNS Client for Humans
   licenses:
     - GPL-3.0-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: doggo
-  binname: doggo
-  visiblename: doggo
-  version: 1.4.2
-  origversion: 1.4.2-1
-  status: newest
-  summary: Command-line DNS Client for Humans
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_24_05
   srcname: doggo
   visiblename: doggo
@@ -490,30 +503,6 @@
   srcname: doggo
   visiblename: doggo
   version: 1.0.5
-  origversion: null
-  status: outdated
-  summary: Command-line DNS Client for Humans. Written in Golang
-  maintainers:
-    - incense.stitch_0w@icloud.com
-    - maximilian@mbosch.me
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: doggo
-  visiblename: doggo
-  version: 1.0.5
-  origversion: null
-  status: outdated
-  summary: Command-line DNS Client for Humans. Written in Golang
-  maintainers:
-    - incense.stitch_0w@icloud.com
-    - maximilian@mbosch.me
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_11
-  srcname: doggo
-  visiblename: doggo
-  version: 1.1.3
   origversion: null
   status: outdated
   summary: Command-line DNS Client for Humans. Written in Golang
@@ -647,5 +636,16 @@
   summary: Command-line DNS client for humans
   maintainers:
     - josh@klar.sh
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: doggo
+  binname: doggo
+  visiblename: doggo
+  version: 1.4.2
+  origversion: 1.4.2-1
+  status: newest
+  summary: Command-line DNS Client for Humans
   licenses:
     - GPL-3.0-only
