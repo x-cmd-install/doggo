@@ -24,6 +24,16 @@ Total: **13,765** lines of code across **65** files in the top 5 languages.
 | JavaScript | 377 | 20 | 69 | 4 |
 | Html | 366 | 14 | 33 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.9 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 3/19 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/mr-karan/doggo>
@@ -48,12 +58,12 @@ Total: **13,765** lines of code across **65** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 3 | 0 | 1 | 0 | 5 |
-| last60d | 2026-09-17 | 2 | 5 | 0 | 1 | 0 | 13 |
-| 90d | 2026-08-18 | 3 | 10 | 0 | 4 | 0 | 20 |
-| last180d | 2026-05-20 | 8 | 20 | 0 | 5 | 0 | 37 |
-| 360d | 2025-11-21 | 11 | 25 | 0 | 11 | 0 | 58 |
-| last720d | 2024-11-26 | 14 | 30 | 0 | 33 | 0 | 95 |
+| 30d | 2026-10-18 | 1 | 3 | 0 | 1 | 0 | 5 |
+| last60d | 2026-09-18 | 2 | 5 | 0 | 1 | 0 | 13 |
+| 90d | 2026-08-19 | 3 | 10 | 0 | 3 | 0 | 20 |
+| last180d | 2026-05-21 | 7 | 20 | 0 | 5 | 0 | 37 |
+| 360d | 2025-11-22 | 11 | 25 | 0 | 11 | 0 | 58 |
+| last720d | 2024-11-27 | 14 | 30 | 0 | 33 | 0 | 95 |
 
 ## Release assets
 
@@ -89,12 +99,12 @@ Total: **13,765** lines of code across **65** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/doggo). **11** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
+Reported by **50** distros on [repology.org](https://repology.org/project/doggo). **12** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.4.2` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.4.2` | ✅ latest |
 | Nix unstable | `1.4.2` | ✅ latest |
 | Void | `1.4.1` | ⚠️ outdated |
 | Alpine edge | `1.1.5` | ⚠️ outdated |
@@ -109,4 +119,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:48:42Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:35:16Z._
