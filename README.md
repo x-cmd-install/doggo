@@ -48,12 +48,12 @@ Total: **13,765** lines of code across **65** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 3 | 0 | 1 | 1 | 5 |
-| last60d | 2026-09-20 | 2 | 5 | 0 | 1 | 1 | 13 |
-| 90d | 2026-08-21 | 3 | 9 | 0 | 2 | 1 | 20 |
-| last180d | 2026-05-23 | 7 | 20 | 0 | 5 | 1 | 37 |
-| 360d | 2025-11-24 | 11 | 25 | 0 | 11 | 1 | 58 |
-| last720d | 2024-11-29 | 14 | 30 | 0 | 33 | 1 | 95 |
+| 30d | 2026-10-21 | 1 | 3 | 0 | 1 | 1 | 5 |
+| last60d | 2026-09-21 | 2 | 5 | 0 | 1 | 1 | 13 |
+| 90d | 2026-08-22 | 3 | 9 | 0 | 2 | 1 | 20 |
+| last180d | 2026-05-24 | 7 | 20 | 0 | 5 | 1 | 37 |
+| 360d | 2025-11-25 | 11 | 25 | 0 | 11 | 1 | 58 |
+| last720d | 2024-11-30 | 14 | 30 | 0 | 33 | 1 | 95 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:49:03Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:30:55Z._
