@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.4.2` (2026-10-22)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-21
 - **Assets in release**: 27
 
 ## Popularity
 
-- **Stars**: 4,558 · **Forks**: 152 · **Open issues**: 107 · **Contributors**: 41
+- **Stars**: 4,560 · **Forks**: 152 · **Open issues**: 109 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 83 · **Open PRs**: 0 · **Closed issues**: 106 · **Open issues**: 1 · **Commits**: 288
+- **Releases**: 48 · **Merged PRs**: 83 · **Open PRs**: 0 · **Closed issues**: 107 · **Open issues**: 2 · **Commits**: 289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 3 | 0 | 1 | 1 | 5 |
-| last60d | 2026-09-22 | 2 | 5 | 0 | 1 | 1 | 13 |
-| 90d | 2026-08-23 | 3 | 9 | 0 | 2 | 1 | 20 |
-| last180d | 2026-05-25 | 7 | 20 | 0 | 5 | 1 | 37 |
-| 360d | 2025-11-26 | 11 | 25 | 0 | 11 | 1 | 58 |
-| last720d | 2024-12-01 | 14 | 30 | 0 | 33 | 1 | 95 |
+| 30d | 2026-10-23 | 0 | 3 | 0 | 2 | 2 | 3 |
+| last60d | 2026-09-23 | 2 | 5 | 0 | 2 | 2 | 14 |
+| 90d | 2026-08-24 | 3 | 9 | 0 | 3 | 2 | 21 |
+| last180d | 2026-05-26 | 6 | 20 | 0 | 6 | 2 | 38 |
+| 360d | 2025-11-27 | 11 | 25 | 0 | 12 | 2 | 58 |
+| last720d | 2024-12-02 | 14 | 30 | 0 | 34 | 2 | 96 |
 
 ## Release assets
 
@@ -119,4 +119,4 @@ Install metadata for doggo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:19:31Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:06:18Z._
