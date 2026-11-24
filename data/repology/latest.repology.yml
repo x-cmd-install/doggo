@@ -1,16 +1,26 @@
-- repo: void_x86_64
-  subrepo: x86_64
+- repo: arch
+  subrepo: extra
   srcname: doggo
   binname: doggo
   visiblename: doggo
-  version: 1.4.1
-  origversion: 1.4.1_1
-  status: outdated
-  summary: Command-line DNS client for humans
-  maintainers:
-    - josh@klar.sh
+  version: 1.4.2
+  origversion: 1.4.2-1
+  status: newest
+  summary: Command-line DNS Client for Humans
   licenses:
     - GPL-3.0-only
+- repo: aosc
+  srcname: app-network/doggo
+  binname: doggo
+  visiblename: doggo
+  version: 1.4.2
+  origversion: 1.4.2-1
+  status: newest
+  summary: Command-line DNS client
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - net
 - repo: alpine_3_20
   subrepo: community
   srcname: doggo
@@ -35,6 +45,17 @@
   summary: A modern command-line DNS client, additionally supporting DoH, DoT and DNSCrypt protocols
   maintainers:
     - ianbashford@gmail.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_05
+  srcname: doggo
+  visiblename: doggo
+  version: 0.5.7
+  origversion: null
+  status: outdated
+  summary: Command-line DNS Client for Humans. Written in Golang
+  maintainers:
+    - incense.stitch_0w@icloud.com
   licenses:
     - GPL-3.0-only
 - repo: alpine_3_22
@@ -115,26 +136,6 @@
     - cielesti@protonmail.com
   licenses:
     - GPL-3.0-only
-- repo: rosa_2019_1
-  subrepo: contrib/release
-  srcname: doggo
-  binnames:
-    - doggo
-    - doggo-web
-    - doggo-bash-completion
-    - doggo-fish-completion
-    - doggo-zsh-completion
-  visiblename: doggo
-  version: 1.0.5
-  origversion: 1.0.5-1
-  status: outdated
-  summary: CLI tool and API server DNS client implemented in Go
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - Networking/WWW
 - repo: alpine_3_23
   subrepo: community
   srcname: doggo
@@ -301,29 +302,6 @@
     - GPL-3.0-only
   categories:
     - Monitoring
-- repo: aosc
-  srcname: app-network/doggo
-  binname: doggo
-  visiblename: doggo
-  version: 1.4.2
-  origversion: 1.4.2-1
-  status: newest
-  summary: Command-line DNS client
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - net
-- repo: arch
-  subrepo: extra
-  srcname: doggo
-  binname: doggo
-  visiblename: doggo
-  version: 1.4.2
-  origversion: 1.4.2-1
-  status: newest
-  summary: Command-line DNS Client for Humans
-  licenses:
-    - GPL-3.0-only
 - repo: aur
   srcname: doggo-git
   binname: doggo-git
@@ -480,9 +458,9 @@
   srcname: doggo
   binname: doggo
   visiblename: doggo
-  version: 1.4.0
-  origversion: 1.4.0-1
-  status: outdated
+  version: 1.4.2
+  origversion: 1.4.2-1
+  status: newest
   summary: Command-line DNS Client for Humans
   licenses:
     - GPL-3.0-only
@@ -506,17 +484,6 @@
   origversion: 1.4.2-1
   status: newest
   summary: Command-line DNS Client for Humans
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_05
-  srcname: doggo
-  visiblename: doggo
-  version: 0.5.7
-  origversion: null
-  status: outdated
-  summary: Command-line DNS Client for Humans. Written in Golang
-  maintainers:
-    - incense.stitch_0w@icloud.com
   licenses:
     - GPL-3.0-only
 - repo: nix_stable_24_11
@@ -610,6 +577,26 @@
   summary: Command-line DNS Client for Humans
   licenses:
     - GPL-3.0-only
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: doggo
+  binnames:
+    - doggo
+    - doggo-web
+    - doggo-bash-completion
+    - doggo-fish-completion
+    - doggo-zsh-completion
+  visiblename: doggo
+  version: 1.0.5
+  origversion: 1.0.5-1
+  status: outdated
+  summary: CLI tool and API server DNS client implemented in Go
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Networking/WWW
 - repo: rosa_13
   subrepo: contrib/release
   srcname: doggo
@@ -649,3 +636,16 @@
   summary: Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt
   maintainers:
     - gouranga.das.khulna@gmail.com
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: doggo
+  binname: doggo
+  visiblename: doggo
+  version: 1.4.1
+  origversion: 1.4.1_1
+  status: outdated
+  summary: Command-line DNS client for humans
+  maintainers:
+    - josh@klar.sh
+  licenses:
+    - GPL-3.0-only
